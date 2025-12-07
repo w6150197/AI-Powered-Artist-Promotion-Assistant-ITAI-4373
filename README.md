@@ -18,7 +18,7 @@ Tech Stack
 •	Optional: Flask/FastAPI for API endpoints
 Setup Instructions
 1.	Clone the repository
-git clone https://github.com/yourusername/ai-artist-poc.git
+git clone (https://github.com/w6150197/AI-Powered-Artist-Promotion-Assistant-ITAI-4373)
 cd ai-artist-poc
 2.	Install dependencies
 pip install -r requirements.txt
